@@ -1,0 +1,11 @@
+D:\stm32_links\iBox\iBox\iBox\bin\Debug\iBox.exe.config
+D:\stm32_links\iBox\iBox\iBox\bin\Debug\iBox.exe
+D:\stm32_links\iBox\iBox\iBox\bin\Debug\iBox.pdb
+D:\stm32_links\iBox\iBox\iBox\obj\Debug\iBox.csproj.AssemblyReference.cache
+D:\stm32_links\iBox\iBox\iBox\obj\Debug\iBox.Form1.resources
+D:\stm32_links\iBox\iBox\iBox\obj\Debug\iBox.Properties.Resources.resources
+D:\stm32_links\iBox\iBox\iBox\obj\Debug\iBox.csproj.GenerateResource.cache
+D:\stm32_links\iBox\iBox\iBox\obj\Debug\iBox.csproj.CoreCompileInputs.cache
+D:\stm32_links\iBox\iBox\iBox\obj\Debug\iBox.exe
+D:\stm32_links\iBox\iBox\iBox\obj\Debug\iBox.pdb
+D:\stm32_links\iBox\iBox\iBox\obj\Debug\iBox.Login.resources
